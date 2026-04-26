@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pro1.test" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-04-26T08:19:24.600Z" hostname="HP" time="0.023">
+  <properties/>
+  <testcase name="testFail" classname="pro1.test" time="0.007"/>
+  <testcase name="testInvalid" classname="pro1.test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
