@@ -2,7 +2,7 @@ package pro1;
 import org.testng.Assert;
 
 import org.testng.annotations.Test;
-public class test{
+public class TestClass{
 	@Test
 	public void testPass() {
 		Assert.assertEquals(devops.display(55), "pass");
